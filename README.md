@@ -16,6 +16,4 @@ Once a game, each wizard is able to use their one spell slot to destroy any piec
 
 #### Development
 
-This game was written in C++ and uses the VS2019 compiler. This game will only run on Windows machines because the `SetConsoleTextAttribute()` commands are exclusive to Windows. Otherwise, the rest of the game uses STL without any 3rd party libraries.
-
-Free use for everyone. MIT License.
+This game was written in C++ and uses Unreal Engine 4. Free use for everyone. MIT License.
